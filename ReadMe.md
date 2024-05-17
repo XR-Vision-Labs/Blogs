@@ -1,0 +1,1 @@
+# XRVisionLabs blogs centralized repository
